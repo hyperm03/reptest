@@ -1,4 +1,9 @@
-Repository di prova per esercizio in classe ITS
+# Repository di prova per esercizio in classe ITS
+## Ciao! :-)
+Io sono Mattia, ho 19 anni e vengo da Milano
 
+## Dove e che cosa studio?
+Studio a Milano in un ITS denominato "Tech Talent Factory"
 
-UPDATE: Vengono aggiunti altri caratteri per testare un commit alle ore 17:17 del 18/10/2023
+## Qual'è il mantra della vita?
+Hold tight, for everyday life.
